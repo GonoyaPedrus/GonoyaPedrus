@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GonoyaPedrus
 - 👀 I’m interested in Python, SQL, Java, C, C++, PHP, HTML.....
-- 🌱 I’m currently learning  PHP, HTML
+- 🌱 I’m currently learning  DL/ML, Docker, Terraform, Data
 - 💞️ I’m looking to collaborate on ...
 - - 📫 How to reach me @pierre.bourdel@esme.fr
 
