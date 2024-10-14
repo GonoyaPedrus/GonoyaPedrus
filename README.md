@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GonoyaPedrus
-- 👀 I’m interested in ML/DL, GenAI, LLMs, Data Science, NLPs...
+- 👀 I’m looking for a job in Data Science, LLMs, GenAI, ML/DL
 - 📫 How to reach me : bourdelp@gmail.com
 
 <!---
