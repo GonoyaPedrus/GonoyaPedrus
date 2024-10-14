@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @GonoyaPedrus
-- 👀 I’m interested in Python, SQL, Java, C, C++, aws, Cloud DevOps
-- 🌱 I’m currently learning  DL/ML, Docker, Terraform, Data
-- - 📫 How to reach me @pierre.bourdel@esme.fr
+- 👀 I’m interested in ML/DL, GenAI, LLMs, Data Science, NLPs...
+- 📫 How to reach me : bourdelp@gmail.com
 
 <!---
 GonoyaPedrus/GonoyaPedrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
