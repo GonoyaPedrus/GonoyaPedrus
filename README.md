@@ -16,7 +16,7 @@ AI engineer in **real estate**. My title says AI project manager, but day to day
 
 ## Featured project
 
-⚽ **[RSPL](https://github.com/GonoyaPedrus/RSPL)**: a player recommendation system for Fantasy Premier League, built on historical player data. Currently being rebuilt.
+⚽ **[fpl-assistant](https://github.com/GonoyaPedrus/fpl-assistant)**: a Fantasy Premier League assistant that predicts player points and picks the best squad under budget with an optimizer. Work in progress.
 
 ## Background
 
