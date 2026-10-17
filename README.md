@@ -10,7 +10,7 @@ AI engineer in **real estate**. My title says AI project manager, but day to day
 ## Tech stack
 
 - **Languages:** Python · YAML
-- **AI / ML:** PyTorch · TensorFlow · scikit-learn · LangChain · LangSmith · LiteLLM
+- **AI / ML:** TensorFlow · scikit-learn · LangChain · LangSmith · LiteLLM
 - **Cloud:** Azure · Google Cloud (GCP Associate Cloud Engineer certified)
 - **DevOps:** Terraform · Ansible · GitLab CI
 
